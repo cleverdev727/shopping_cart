@@ -1,0 +1,23 @@
+.select2-selection{
+    height: 38px !important;
+}
+
+.select2-selection__rendered{
+    margin-top: 3px;
+}
+
+.select2-selection__arrow{
+    margin-top: 3px;
+}
+
+.flag-icon{
+    width: 27px !important;
+}
+
+.flag-icon-xx.flag-icon-squared {
+     background-image: url(../img/world_search.webp);
+}
+  
+span.flag-icon.flag-icon-.flag-icon-squared {
+    background-image: url(../img/world_search.webp);
+}
